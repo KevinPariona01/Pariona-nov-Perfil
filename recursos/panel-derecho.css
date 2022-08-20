@@ -1,0 +1,88 @@
+.panel-derecha{
+    overflow-y: auto;
+    right: 0;
+    position: absolute;
+    width: 60%;
+    height: 100%;
+    background-color: #D7D7DF;
+    text-align: center;
+}
+.panel-derecha h2{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.container-lenguaje{
+    height: 70%;
+    overflow: hidden;
+}
+.container-derecho-lenguaje{
+    width: 33%;
+    height: 200px;
+    padding: 3%;
+    float: left;
+    overflow: hidden;
+}
+.container-lenguaje legend{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.img-conocimiento{
+    width: 50%;   
+    max-width: 50%;
+    height: 50%;
+    max-width: 50%;
+}
+.coleccion-derecho-lenguaje{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.img-animacion{
+    background-color: rgba(84, 84, 84, 0.064);
+    box-shadow: 3px 3px 3px black;
+    opacity: 0.8;
+}
+.container-framework{
+    height: 40%;
+    overflow: hidden;
+}
+.container-framework legend{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.container-derecho-framework{
+    width: 33%;
+    height: 200px;
+    padding: 3%;
+    float: left;
+    overflow: hidden;
+}
+.coleccion-derecho-framework{
+    font-weight: bold;
+    font-family: 'Courier New', Courier, monospace;
+}
+.container-proyectos{
+    text-align: center;
+    height: 100%;
+    padding: 2%;
+}
+.container-proyectos legend{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.container-derecho-proyectos h6{
+    text-align: left;
+    font-style: initial;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+.container-derecho-proyectos li{
+    display: inline-block;
+    border: solid 2px #D7D7DF;
+    width: 300px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #2F2FAB;
+}
+.list-group{
+    padding: 2px;
+}

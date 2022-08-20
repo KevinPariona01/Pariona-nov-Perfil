@@ -1,0 +1,75 @@
+.panel-izquierdo{
+    border: solid 1px black;
+    text-align: center;
+    width: 40%;
+    height: 100%;
+    top: 0;
+    position: absolute;
+    overflow-y: auto;
+    background-color: #2B2B31;
+}.container-foto{
+    padding: 2%;
+}
+#img-Yo{
+    width: 50%;
+    height: 100%;
+    border-radius: 8%;
+}
+.container-Datos{
+    padding: 5%;
+}
+.container-Perfil{
+    padding: 3%;
+}
+.tabla-izquierdo-1{
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+}
+.tabla-izquierdo-2{
+    margin: auto;
+    text-align: center;
+    color: aliceblue;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}   
+.cabecero-izquierdo-dato{
+    text-align: left;
+    width: 30%;
+    height: 40px;
+    font-weight: bold;
+    font-size: 22px;
+}
+.dato-izquierdo-dato{
+    width: 70%;
+    height: 40px;
+    font-size: 18px;
+}
+.subtitulos-izquierdo{
+    text-align: center;
+    color: #2F2FAB;
+    font-style: initial;
+}
+.img-Dato{
+    width: 40%;
+    height: 30%;
+}
+li{
+    list-style-type: none ;
+}
+.td-img{
+    width: 30%;
+}
+.td-estudio{
+    width: 70%;
+}
+.lista-izquierdo{
+    text-align: left;
+    color: white;
+    font-weight: bold;
+    font-size: 22px;
+}
+.separacion{
+    border: solid 1px white;
+}
